@@ -1,39 +1,23 @@
 # Portafolio — Alejandra Fusil Palencia
 
-Portafolio personal de **Alejandra Fusil Palencia**, Full Stack Developer · Integración de IA · SaaS B2B.
+**Full Stack Developer · Integración de IA · SaaS B2B** · Santiago, Chile
 
-Sitio estático de un solo archivo (HTML + CSS + JS embebidos), bilingüe (ES/EN).
+🔗 **Sitio en vivo:** https://alejandrafusil.github.io
 
-## Estructura
+Desarrolladora Full Stack con 4+ años construyendo productos digitales en producción. Trabajo de extremo a extremo —frontend, backend e integraciones— con foco en productos SaaS B2B, sistemas empresariales e integración de IA en flujos reales de negocio.
 
-```
-.
-├── index.html                 # Portafolio (página principal)
-├── assets/
-│   └── CV_AlejandraFusil.pdf   # CV descargable
-├── .gitignore
-└── README.md
-```
+## Proyectos destacados
 
-## Ver localmente
+- **Sentinel — Plataforma de Monitoreo Industrial (Voxa):** monitoreo en tiempo real de equipos en terreno (telemetría, dashboards, alertas, geocercas, mantenimiento y control remoto), integrado con CRM y facturación, con una capa de IA (OpenAI / Claude API) y automatización en n8n.
+- **Módulo de Marketing — CRM SaaS (Voxa):** funnel de conversión, atribución multicanal, gestión de campañas y métricas automáticas, integrado con GTM, GA4 y plataformas de ads.
 
-Abre `index.html` en el navegador, o sirve la carpeta:
+## Stack
 
-```bash
-python3 -m http.server 8000
-# luego abre http://localhost:8000
-```
-
-## Publicar en GitHub Pages
-
-1. Sube el contenido de esta carpeta al repositorio.
-2. En **Settings → Pages**, elige la rama (`main`) y carpeta `/root`.
-3. El sitio quedará disponible en `https://<usuario>.github.io/<repo>/`.
-
-El botón **Descargar CV** usa una ruta relativa (`assets/CV_AlejandraFusil.pdf`),
-por lo que funciona tanto en local como después del deploy.
+PHP · Laravel · Node.js · Angular · TypeScript · JavaScript · MySQL · OpenAI API · Claude API · n8n · Docker · Git · Figma · Python
 
 ## Contacto
 
-- Email: alejandrafusil@gmail.com
-- LinkedIn: https://linkedin.com/in/alejandrafusil
+- 🌐 Portafolio: https://alejandrafusil.github.io
+- 💼 LinkedIn: https://linkedin.com/in/alejandrafusil
+- ✉️ Email: alejandrafusil@gmail.com
+- 📄 CV: [assets/CV_AlejandraFusil.pdf](assets/CV_AlejandraFusil.pdf)
